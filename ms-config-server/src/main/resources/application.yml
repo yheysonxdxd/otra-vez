@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/yheysonxdxd/otra-vez.git # ruta del repositorio git
+          uri: https://github.com/bboyarchix/ultimo.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
     user:
-      name: rootss
+      name: root
       password: 123456
