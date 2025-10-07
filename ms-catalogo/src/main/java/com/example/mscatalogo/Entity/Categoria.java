@@ -13,6 +13,6 @@ public class Categoria {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
-    private String nombre;
-    private String descripcion;
+    private String nombre;"PELOTA"
+    private String descripcion;<"PELOTA RAPIDO"
 }
